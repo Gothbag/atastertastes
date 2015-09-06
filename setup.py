@@ -74,14 +74,14 @@ except:
     pass
 
 setup(
-    name='django-marcus',
+    name='ATasterTastes',
     version=__version__,
-    description="Bilingual blog on Django",
+    description="A place for tasters, those who taste",
     long_description=long_description,
-    keywords='django, blog',
-    author='Mikhail Andreev',
-    author_email='x11org@gmail.com',
-    url='http://github.com/adw0rd/marcus',
+    keywords='django, blog, a, taster, tastes, food',
+    author='JM Cagigal Soler',
+    author_email='josemariacagigalso@gmail.com',
+    url='http://github.com/gothbag/atastertastes',
     license='BSD',
     packages=find_packages(),
     zip_safe=False,
